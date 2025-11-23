@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **Advanced JavaScript & Python**
+- 🌱 I’m currently learning ** JavaScript & Python**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
